@@ -1014,5 +1014,10 @@
         "issues": "Issues",
         "merges": "Merge Requests",
         "projects": "Projects"
+    },
+    "tvheadend": {
+        "upcoming": "Upcoming",
+        "finished": "Finished",
+        "failed": "Failed"
     }
 }
